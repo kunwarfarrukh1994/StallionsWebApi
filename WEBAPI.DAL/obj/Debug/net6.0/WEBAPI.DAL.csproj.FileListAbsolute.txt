@@ -1,0 +1,14 @@
+W:\stallions\WebAPI\WEBAPI.DAL\bin\Debug\net6.0\WEBAPI.DAL.deps.json
+W:\stallions\WebAPI\WEBAPI.DAL\bin\Debug\net6.0\WEBAPI.DAL.runtimeconfig.json
+W:\stallions\WebAPI\WEBAPI.DAL\bin\Debug\net6.0\WEBAPI.DAL.dll
+W:\stallions\WebAPI\WEBAPI.DAL\bin\Debug\net6.0\WEBAPI.DAL.pdb
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.csproj.AssemblyReference.cache
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.AssemblyInfoInputs.cache
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.AssemblyInfo.cs
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.csproj.CoreCompileInputs.cache
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.dll
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\refint\WEBAPI.DAL.dll
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.pdb
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\WEBAPI.DAL.genruntimeconfig.cache
+W:\stallions\WebAPI\WEBAPI.DAL\obj\Debug\net6.0\ref\WEBAPI.DAL.dll

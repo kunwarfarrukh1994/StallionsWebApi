@@ -1,0 +1,15 @@
+W:\stallions\WebAPI\WebAPI.BAL\bin\Debug\net6.0\WebAPI.BAL.deps.json
+W:\stallions\WebAPI\WebAPI.BAL\bin\Debug\net6.0\WebAPI.BAL.dll
+W:\stallions\WebAPI\WebAPI.BAL\bin\Debug\net6.0\WebAPI.BAL.pdb
+W:\stallions\WebAPI\WebAPI.BAL\bin\Debug\net6.0\WEBAPI.DAL.dll
+W:\stallions\WebAPI\WebAPI.BAL\bin\Debug\net6.0\WEBAPI.DAL.pdb
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.csproj.AssemblyReference.cache
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.GeneratedMSBuildEditorConfig.editorconfig
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.AssemblyInfoInputs.cache
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.AssemblyInfo.cs
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.csproj.CoreCompileInputs.cache
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.csproj.Up2Date
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.dll
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\refint\WebAPI.BAL.dll
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\WebAPI.BAL.pdb
+W:\stallions\WebAPI\WebAPI.BAL\obj\Debug\net6.0\ref\WebAPI.BAL.dll
